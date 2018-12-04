@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">EjemploFirebase</string>
+    <string name="app_seccion">Sección:</string>
+    <string name="app_area">Asignatura</string>
+    <string name="app_tema">Escriba el tema</string>
+    <string name="app_reg">Registrar Clase</string>
+
+
+    <array name="secciones">
+        <item> 11° 7 - Sistemas</item>
+        <item>11° 8 - Programación</item>
+        <item>11° 10 - Procesos Matemáticos</item>
+    </array>
+
+
+    <array name="areas">
+        <item>Lógica Computacional</item>
+        <item>Tecnología</item>
+        <item>Algoritmos II</item>
+        <item>Herramientas Telemáticas</item>
+        <item>Lenguaje de Prog. II</item>
+    </array>
 </resources>
